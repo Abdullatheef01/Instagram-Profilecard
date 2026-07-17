@@ -1,16 +1,50 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Instagram Profile Card
 
-Currently, two official plugins are available:
+A modern and responsive Instagram Profile Card built using React.js. This project showcases a user's profile information, including profile picture, followers, following count, posts, and bio in a visually appealing card layout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive Instagram-style profile card.
+- Displays profile image, username.
+- Shows followers, following, and posts count.
+- Clean and modern UI design.
+- Built with reusable React components.
+## Technology Used
+- React.js
+- JavaScript
+- HTML
+- CSS
 
-## Expanding the ESLint configuration
+## Installation
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Install my-project with npm
+
+```bash
+Installation
+
+1. Clone the repository:
+git clone https://github.com/Abdullatheef01/Instagram-Profile-Card.git
+
+2. Navigate to the project directory:
+cd Instagram-Profile-Card
+
+3. Install dependencies:
+npm install
+
+4. Start the development server:
+npm run dev
+```
+    
+## Demo
+
+<img width="1866" height="883" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/28c5ad2f-f254-40a6-97e7-191504c5be71" />
+
+
+
+## Usage
+
+- Open the application.
+- View the Instagram-inspired profile card.
+- Customize profile details as needed.
